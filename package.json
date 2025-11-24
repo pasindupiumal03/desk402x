@@ -2,9 +2,11 @@
   "name": "desk402x",
   "version": "1.0.0",
   "description": "desk402x - Solana-first, multi-network x402 facilitator",
+  "main": "index.html",
   "scripts": {
-    "build": "echo 'Static site - no build needed'",
-    "start": "echo 'Static site ready'"
+    "start": "serve .",
+    "dev": "serve ."
   },
-  "type": "module"
+  "keywords": ["desk402x", "solana", "crypto", "static"],
+  "license": "MIT"
 }
