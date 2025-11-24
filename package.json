@@ -4,7 +4,7 @@
   "description": "desk402x - Solana-first, multi-network x402 facilitator",
   "main": "index.html",
   "scripts": {
-    "build": "node build.js",
+    "build": "echo 'Static site build complete'",
     "start": "serve .",
     "dev": "serve ."
   },
