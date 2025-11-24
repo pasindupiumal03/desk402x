@@ -1,0 +1,10 @@
+{
+  "name": "desk402x",
+  "version": "1.0.0",
+  "description": "desk402x - Solana-first, multi-network x402 facilitator",
+  "scripts": {
+    "build": "echo 'Static site - no build needed'",
+    "start": "echo 'Static site ready'"
+  },
+  "type": "module"
+}
